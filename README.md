@@ -4,6 +4,5 @@
 
 - 😄 I am a final year undergrad student pursuing B.Tech(C.S.E.).
 - 🌱 I’m currently learning **DSA and Development.**
-- 
-- 📫 Reach me **deepshrivastava2001@gmail.com**
+- ##📫 Reach me **deepshrivastava2001@gmail.com**
 - ⚡ Fun fact **Other than development, I create a content on social media account 📷**
