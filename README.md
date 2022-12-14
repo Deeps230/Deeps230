@@ -9,3 +9,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deep-shikha-shrivastava-4510081bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deeps230" height="30" width="40" /></a>
+<a href="https://instagram.com/thisdeepshikha_shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Deeps230" height="30" width="40" /></a>
+</p>
