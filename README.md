@@ -3,7 +3,7 @@
 
 <img src="https://media1.tenor.com/images/9d0cb0eda3bece076b73f488a52238f5/tenor.gif" width="300" align='middle'>
 
-- 😄 I have done my graduation B.Tech(C.S.E.) fron School Of Management Sciences Lucknow.
+- 😄 I have done my graduation B.Tech(C.S.E.) from School Of Management Sciences Lucknow.
 - 🌱 I’m currently learning **DSA and Development.**
 - ##📫 Reach me **deepshrivastava2001@gmail.com**
 - ⚡ Fun fact **Other than development, I create a content on social media account 📷**
