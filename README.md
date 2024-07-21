@@ -22,3 +22,19 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deeps230&show_icons=true&locale=en" alt="Deeps230" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deeps230&" alt="Deeps230" /></p>
+
+
+  # My Stats 🔥
+
+</div>
+<div id="text" align="center" >
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aniruddh-Verma&theme=python-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+ 
+
+  
+  <a href="https://app.daily.dev/shadoe1607"><img src="https://github.com/Aniruddh-Verma/Aniruddh-Verma/blob/main/devcard.svg" width="500" alt="Chris Bongers's Dev Card"/></a>
+
+  
+</div>
