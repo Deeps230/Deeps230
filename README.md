@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Deep SHIKHA👋</h1>
+<h1 align="center">Hey, I'm DEEP SHIKHA👋</h1>
 
 
 
