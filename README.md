@@ -4,7 +4,7 @@
 
 
 - 😄 I have done my graduation B.Tech(C.S.E.) from School Of Management Sciences Lucknow.
-- 🌱 I’m currently learning **DSA and Development.**
+- 🌱 I’m currently learning **Backend language .**
 - ##📫 Reach me **deepshrivastava2001@gmail.com**
 - ⚡ Fun fact **Other than development, I create a content on social media account 📷**
 <h3 align="left">Connect with me:</h3>
