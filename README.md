@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm DEEP SHIKHA👋</h1>
 
 
-- Worked Genpact as Process Associate, and BSN infotech pvt. ltd as Software Engineer 
+- Worked in Genpact as Process Associate, and BSN infotech pvt. ltd as Software Engineer 
 - 😄 I have done my graduation B.Tech(C.S.E.) from School Of Management Sciences Lucknow.
 - 🌱 I’m currently learning **Power Bi .**
 - ##📫 Reach me **deepshrivastava2001@gmail.com**
